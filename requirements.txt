@@ -1,0 +1,7 @@
+eyed3
+hsaudiotag
+progressbar
+path.py
+mutagen
+docopt
+ansitagcolor
